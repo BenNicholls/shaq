@@ -8,5 +8,5 @@
 ## Usage
 Run `shaq hello` in your terminal, or `shaq --help` to see what's up
 
-"" Thanks
+## Thanks
 Kate
