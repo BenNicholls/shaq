@@ -3,7 +3,7 @@
 ## Install
 
 1. Install [node](http://nodejs.org)
-2. Run `npm install -g shaq` in your terminal
+2. Clone this repo and say hi to shaq!
 
 ## Usage
 Run `shaq hello` in your terminal, or `shaq --help` to see what's up
