@@ -1,0 +1,9 @@
+{
+	"folders":
+	[
+		{
+			"path": "../shaq",
+			"folder_exclude_patterns": ["node_modules"]
+		}
+	]
+}
